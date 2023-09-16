@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DABofCode
+- 👋 CSC154_Boyd
 - 👀 I’m interested in Project Management
 - 🌱 I’m currently learning about software developement
 - 💞️ I’m looking to collaborate on Git
